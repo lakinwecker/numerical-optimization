@@ -42,4 +42,3 @@ colors.line['beige'] = rgb_to_hex(148, 139, 61)
 colors.bar_indexed = list(colors.bar.values())
 colors.line_indexed = list(colors.line.values())
 colors.points_indexed = list(colors.points.values())
-

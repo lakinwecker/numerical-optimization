@@ -1,0 +1,16 @@
+jupyter
+ipykernel
+sagemath
+ipython
+ipython_genutils
+jupyter_core
+nbconvert
+notebook
+nbextensions
+ipywidgets
+pythreejs
+matplotlib
+numpy
+simpy
+scipy
+pandas
